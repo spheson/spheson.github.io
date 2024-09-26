@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://spheson.github.io/sitemap.spheson.gz
+Sitemap: https://spheson.github.io/app/sitemap.spheson.gz
+Sitemap: https://spheson.github.io/assets/sitemap.spheson.gz
+Sitemap: https://spheson.github.io/css/sitemap.spheson.gz
+Sitemap: https://spheson.github.io/data/sitemap.spheson.gz
+Sitemap: https://spheson.github.io/includes/sitemap.spheson.gz
+Sitemap: https://spheson.github.io/item/sitemap.spheson.gz
+Sitemap: https://spheson.github.io/src/sitemap.spheson.gz
